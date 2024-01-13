@@ -1,5 +1,6 @@
 # More Papers to read and refer
 Papers based on the LLM's and AI are in huge amounts. Groundbreaking researches, surveys and model deployments have been done in various partf of the world.
+Some papers already donwloaded above in the folder may not be in the sources listed below. So make sure to check them out.<br>
 The most important papers throughout decades since the paper as I mentioned in my sessions, "Attention Is All You Need", have been listed below. You may refer to any of them. 
 
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
