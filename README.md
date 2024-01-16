@@ -36,3 +36,11 @@ The following are links of various other resources to study about langachains, L
 ## To know more about langchains
 Visit their official repository <a href="https://github.com/langchain-ai/langchain"> langchain-ai</a> and read the book <a href="https://github.com/benman1/generative_ai_with_langchain"> Generative AI with langchains</a>. This will
 give a basic insight on how langchains work and you will develop ability to code using langchains.
+
+# Homeworks and Tasks For yourself
+
+# Contributors
+<a href="https://github.com/AnirudhG07/AnirudhG07/graphs/contributors"><img src="https://contrib.rocks/image?repo=AnirudhG07/AnirudhG07" /></a>
+<a href="https://github.com/MrigankPawagi/GuardRails/graphs/contributors"><img src="https://contrib.rocks/image?repo=MrigankPawagi/GuardRails" /></a>
+<a href="https://github.com/TheUltimateKeval/TheUltimateKeval/graphs/contributors"><img src="https://contrib.rocks/image?repo=TheUltimateKeval/TheUltimateKeval"/>
+</a>
