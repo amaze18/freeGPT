@@ -44,5 +44,6 @@ give a basic insight on how langchains work and you will develop ability to code
 <a href="https://github.com/MrigankPawagi/GuardRails/graphs/contributors"><img src="https://contrib.rocks/image?repo=MrigankPawagi/GuardRails" /></a>
 <a href="https://github.com/TheUltimateKeval/TheUltimateKeval/graphs/contributors"><img src="https://contrib.rocks/image?repo=TheUltimateKeval/TheUltimateKeval"/>
 </a>
+<a href="https://avatars.githubusercontent.com/u/124491857?v=4"><img src="https://avatars.githubusercontent.com/u/124491857?v=4" alt="GB" height="60" width="60" /></a>
 # Follow me, join my sessions 
 Discord: https://discord.gg/rUrxKhTk
