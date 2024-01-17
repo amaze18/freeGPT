@@ -49,4 +49,5 @@ give a basic insight on how langchains work and you will develop ability to code
 <a href="https://github.com/Koosh0610/Koosh0610/graphs/contributors"><img src="https://contrib.rocks/image?repo=Koosh0610/Koosh0610" /></a>
 # Follow me, join my sessions 
 
+Check out my sessions in the `talks.md` and follow them on below discord link. <br>
 Discord: https://discord.gg/rUrxKhTk
