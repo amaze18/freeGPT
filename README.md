@@ -38,7 +38,7 @@ Visit their official repository <a href="https://github.com/langchain-ai/langcha
 give a basic insight on how langchains work and you will develop ability to code using langchains.
 
 # Homeworks and Tasks For yourself
-Build a chatbot which talks to PDF file using Langchain and OpenAI embeddings.
+1) Build a chatbot which talks to PDF file using Langchain and OpenAI embeddings.
 
 # Contributors
 <a href="https://github.com/AnirudhG07/AnirudhG07/graphs/contributors"><img src="https://contrib.rocks/image?repo=AnirudhG07/AnirudhG07" /></a>
