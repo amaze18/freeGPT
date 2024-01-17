@@ -49,8 +49,4 @@ give a basic insight on how langchains work and you will develop ability to code
 <a href="https://github.com/Koosh0610/Koosh0610/graphs/contributors"><img src="https://contrib.rocks/image?repo=Koosh0610/Koosh0610" /></a>
 # Follow me, join my sessions 
 
-|  Title  |   Unversity/College  |  Abstract  |                                                                                                                     
-| :-----:| :---------------------------------------:| :----------------------------------------------------------------------------------------------------: |
-|Developing and Deploying LLM based Solutions| Indian Institiute of Science, Bengaluru| Talk on history, basic structure of LLM's and insights on utilizing modern LLM technology to engineer practical solutions to problems.|
-
 Discord: https://discord.gg/rUrxKhTk
