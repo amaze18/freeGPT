@@ -1,9 +1,11 @@
 # freeGPT
-A free version of Generative AI powered package which augments search based on documents and video files without any need for internet connection or any API key.
+A free version of Generative AI powered package brought to you by ![AIGuruKul] (https://www.aigurukul.dev/). It helps augment search based on documents and video files without any need for internet connection or any API key. 
 
 1. Chat_youtube.ipynb: This python notebook helps one search for answers from a youtube recording which has a transcript available. It also exports out the transcript as a docx file.
 
 2. docGPT.ipynb: This python notebook helps one search for answers from files of multiple types (word, doc,  html, csv, ppt). It can be a great aid if you want to quickly get objective and fact backed answers from a file using a web User Interface.
+
+3. Bhagwan_speaks.ipynb: This python notebook helps one talk to Bhagwan Sri Krishna and gets response/instructions similar to how Arjun got from Bhagwan Sri Krishna
 
 # Reading Resources and links
 To understand LLM's, we must read books, related papers and practise codes to get a grip on them.<br>
