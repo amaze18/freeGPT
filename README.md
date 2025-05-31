@@ -7,6 +7,12 @@ A free version of Generative AI powered package brought to you by [AIGuruKul](ht
 
 3. Bhagwan_speaks.ipynb: This python notebook helps one talk to Bhagwan Sri Krishna and gets response/instructions similar to how Arjun got from Bhagwan Sri Krishna
 
+# How to use Google Colab:
+
+# How to use Git:
+
+
+
 # Reading Resources and links
 To understand LLM's, we must read books, related papers and practise codes to get a grip on them.<br>
 Various books have been uploaded in the <a href="https://github.com/amaze18/freeGPT/tree/main/reading%20resources"> reading resources</a> folder.
